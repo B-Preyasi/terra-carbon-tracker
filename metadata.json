@@ -1,0 +1,8 @@
+{
+  "name": "Carbon Footprint Tracker",
+  "description": "Calculate, track, log, and reduce your carbon footprint with an interactive tracker and personalized AI advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
