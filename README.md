@@ -3,6 +3,9 @@
 **Terra** is a beautifully designed, full-stack, AI-powered carbon tracker and sustainability planner. Built with a sleek, nature-inspired palette (muted forest greens and warm off-whites) and powered by React 18, TypeScript, Tailwind CSS, and the Gemini API, Terra helps individuals visualize their environmental footprints against safe planetary thresholds, build targeted offsets, and log daily eco-friendly habits.
 
 ---
+## Live Url: https://carbon-footprint-tracker-1043067732.asia-southeast1.run.app
+---
+<img width="1430" height="804" alt="Screenshot 2026-06-21 at 11 20 08 PM" src="https://github.com/user-attachments/assets/b9591ea8-02c4-4db3-93b3-d15de3e30513" />
 
 ## 🎨 Design Philosophy & User Experience
 
